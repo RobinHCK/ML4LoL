@@ -1,0 +1,8 @@
+import pandas as pd
+
+import sys
+import os
+
+# Read the CSV file into a pandas DataFrame
+df = pd.read_csv('data/ranked/fold1/test/feature_vectors.csv')
+print(df.head(25))
