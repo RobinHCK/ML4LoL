@@ -1,4 +1,4 @@
-# Project Name
+# Machine Learning for League of Legends Match Outcome Prediction: A Review
 
 ## Requirements
 
